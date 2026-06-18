@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm **Shahd**, a Computer and Control Engineering student.
+I'm **Shahd**, a Computer & Automatic Control Engineering student.
 
 ## About This Project
 My first project on GitHub! Here I'll put:
