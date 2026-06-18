@@ -1,18 +1,19 @@
-# مرحبا! 👋
+# Hello! 👋
 
-أنا شهد طالبة هندسة حاسبات وتحكم آلي.
+I'm **Shahd**, a Computer and Control Engineering student.
 
-## هذا المشروع
-أول مشروع لي على GitHub! رح اكتب هون:
-- ✅ كل شي بتعلمه بالجامعة
-- ✅ شغلات إضافية بتعلمها برا الجامعة
-- ✅ مشاريعي البرمجية
+## About This Project
+My first project on GitHub! Here I'll put:
+- Everything I learn at university ✅
+- Extra stuff I learn outside university ✅
+- My programming journey ✅
 
-## اهدافي
-- 💻 تعلم البرمجة
-- 🛠️ بناء مشاريع حقيقية
-- 🎯 التحضير لمستقبلي المهني
+## My Goals
+- Learn programming 💻
+- Build real projects 🛠️
+- Prepare for my future career 🎯
 
 
-*بداية رحلتي — 2026*
+*The beginning of my journey — 2026*
+
 
